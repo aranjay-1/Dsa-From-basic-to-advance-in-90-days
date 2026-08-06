@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1260-shift-2d-grid) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1288-remove-covered-intervals) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -235,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1406-stone-game-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
