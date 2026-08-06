@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0001-two-sum) |
 | [0451-sort-characters-by-frequency](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1260-shift-2d-grid) |
