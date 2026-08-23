@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0451-sort-characters-by-frequency) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
