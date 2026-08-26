@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1140-stone-game-ii) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1288-remove-covered-intervals) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/3312-sorted-gcd-pair-queries) |
@@ -271,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
