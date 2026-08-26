@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0486-predict-the-winner) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/1301-number-of-paths-with-max-score) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aranjay-1/Dsa-From-basic-to-advance-in-90-days/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
