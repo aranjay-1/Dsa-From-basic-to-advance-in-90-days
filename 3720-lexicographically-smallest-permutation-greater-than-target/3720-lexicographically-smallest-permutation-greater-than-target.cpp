@@ -34,7 +34,7 @@ public:
             }
 
             if (next == -1) continue;
-
+ 
             cnt[next]--;
 
             string ans = target.substr(0, i);
